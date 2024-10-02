@@ -1,0 +1,20 @@
+table{
+    margin: auto;
+    width: 946px;
+    border: solid black;
+    font-family: Calibri;
+    font-size: large;
+}
+.input{
+    border: 1px solid black;
+    font-family: Footlight MT;
+    padding: 0px;
+    
+}
+input {
+    border: 1px solid #d66 ;
+    outline: 0px;
+}
+.logo{
+    width: 80px;
+}

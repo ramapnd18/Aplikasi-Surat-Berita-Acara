@@ -1,0 +1,42 @@
+/login
+/cek_login
+/koneksi
+/register
+/logout
+/admin
+    /dashboard
+    /akun
+    /tambah_akun
+    /edit_akun
+    /update_akun
+    /hapus_akun
+/pelayanan
+    /dashboard
+    /input_data_baru
+    /input_pembetulan
+    /input_pembatalan
+    /input_mutasi
+    /data_data
+    /edit_data
+    /update_data
+    /hapus_data
+petugas 
+    /dashboard
+    /input_data_baru
+    /input_pembetulan
+    /input_pembatalan
+    /input_mutasi
+    /data_verifikasi
+    /edit_data
+    /update_data
+    /hapus_data
+    /hasil_verifikasi
+    tambah_verifikasi
+    hasil_verifikasi
+    edit_verifikasi
+    update_verifikasi
+    hapus_verifikasi
+    berita_acara
+    p_berita_acara
+    
+
