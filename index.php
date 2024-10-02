@@ -5,7 +5,7 @@
     <link rel="shortcut icon" href="img/logo_bapenda1.png">
 </head>
 <body style="background-image: url('img/background1.png'); background-size:20em;">
-    
+    <!-- // belajar git -->
     <?php
 if (isset($_GET['pesan'])) {
     if ($_GET['pesan'] == "gagal") {
@@ -34,6 +34,6 @@ if (isset($_GET['pesan'])) {
             </form>
         </div>
     </div>
-<!-- </div> -->
+<!-- </div>   -->
 </body>
 </html>
